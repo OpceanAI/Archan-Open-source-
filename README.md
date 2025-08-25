@@ -205,7 +205,7 @@ Google AI Studio API Key ✅
 <summary><b>1️⃣ Clonar Repositorio</b></summary>
 
 ```bash
-git clone https://github.com/tu-usuario/archan-bot.git
+git clone https://github.com/OpceanAI/Archan-Open-source-.git
 cd archan-bot
 npm install
 ```
@@ -371,21 +371,10 @@ Nivel 50 → Rol "Archan Master"
 
 ---
 
-## 📖 Documentación
-
-### 📚 **Guías Disponibles**
-
-- [🔧 Configuración Avanzada](docs/configuracion.md)
-- [🎨 Personalización](docs/personalizacion.md) 
-- [🤖 API Reference](docs/api.md)
-- [🐛 Troubleshooting](docs/troubleshooting.md)
-- [🔄 Migración](docs/migracion.md)
-
 ### 🆘 **Soporte**
 
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
-- **Discord**: [Servidor de Soporte](https://discord.gg/tu-servidor)
 
 ---
 
