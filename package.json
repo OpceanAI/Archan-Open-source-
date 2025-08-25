@@ -1,0 +1,21 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "> ¡Konnichiwa! Soy Archan, la bot kawaii más inteligente! 🔮💻",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.15.0",
+    "canvas": "^3.2.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.15.0"
+  }
+}
