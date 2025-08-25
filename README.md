@@ -462,7 +462,6 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 
 **Si te gusta este proyecto, ¡dale una ⭐ nya~!**
 
-!-- Stars -->
 [![GitHub Stars](https://img.shields.io/github/stars/OpceanAI/Archan-Open-source-?style=social)](https://github.com/OpceanAI/Archan-Open-source-/stargazers)
 
 [![GitHub Forks](https://img.shields.io/github/forks/OpceanAI/Archan-Open-source-?style=social)](../../network/members)
