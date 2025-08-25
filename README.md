@@ -436,9 +436,9 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 
 ## 📊 Estadísticas
 
-<div align="center">
+div align="center">
 
-![Lines of Code](https://img.shields.io/tokei/lines/github/OpceanAI/Archan-Open-source-?style=flat-square&label=Líneas%20de%20código&color=FF69B4)
+![Lines of Code](https://codestat.dev/github/OpceanAI/Archan-Open-source-/badge.svg)
 ![Files](https://img.shields.io/github/directory-file-count/OpceanAI/Archan-Open-source-?style=flat-square&label=Archivos&color=9966FF)
 ![Repo Size](https://img.shields.io/github/repo-size/OpceanAI/Archan-Open-source-?style=flat-square&label=Tamaño&color=FF1493)
 
