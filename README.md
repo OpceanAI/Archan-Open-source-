@@ -465,12 +465,6 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 <div align="center">
 
 **MIT License** - Ver [LICENSE](LICENSE) para más detalles
-
-```
-Copyright (c) 2025 Archan-chan Discord Bot
-¡Hecho con 💖 y mucho código kawaii!
-```
-
 ---
 
 ### 🔮 **¡Gracias por usar Archan-chan!**
@@ -483,5 +477,29 @@ Copyright (c) 2025 Archan-chan Discord Bot
 [![GitHub Forks](https://img.shields.io/github/forks/tu-usuario/archan-bot?style=social)](../../network/members)
 
 *¡Nyaa~ Made with 💖 by the kawaii programming community!*
+
+</div>
+
+---
+
+## 🤖 **Diseñado por OpceanAI**
+
+<div align="center">
+
+### 🌟 **Los bots principales**
+
+[**Sakura**](https://discord.com/oauth2/authorize?client_id=1374504057481334825)
+
+[**Nebula**](https://discord.com/oauth2/authorize?client_id=1399120476953116793)
+
+[**Archan**](https://discord.com/oauth2/authorize?client_id=1400529908786004028)
+
+### 🔗 **Nuestro GitHub**
+[https://github.com/OpceanAI](https://github.com/OpceanAI)
+
+### 📂 **Para más información del repositorio**
+[https://github.com/OpceanAI/Archan-Open-source-](https://github.com/OpceanAI/Archan-Open-source-)
+
+**Este es un bot open source basado en Archan desarrollado por OpceanAI**
 
 </div>
