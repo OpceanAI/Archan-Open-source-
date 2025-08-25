@@ -438,7 +438,7 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 
 div align="center">
 
-![Lines of Code](https://codestat.dev/github/OpceanAI/Archan-Open-source-/badge.svg)
+![lines of code](https://badgen.net/badge/Líneas%20de%20código/~10 k/cyan?icon=repo)
 ![Files](https://img.shields.io/github/directory-file-count/OpceanAI/Archan-Open-source-?style=flat-square&label=Archivos&color=9966FF)
 ![Repo Size](https://img.shields.io/github/repo-size/OpceanAI/Archan-Open-source-?style=flat-square&label=Tamaño&color=FF1493)
 
