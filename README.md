@@ -473,7 +473,7 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 
 **Si te gusta este proyecto, ¡dale una ⭐ nya~!**
 
-[![GitHub Stars](https://img.shields.io/github/stars/tu-usuario/archan-bot?style=social)](../../stargazers)
+[![GitHub Stars](https://img.shields.io/github/star/OpceanAI/Archan-Open-source-?style=social)](../../stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/tu-usuario/archan-bot?style=social)](../../network/members)
 
 *¡Nyaa~ Made with 💖 by the kawaii programming community!*
@@ -497,8 +497,6 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 ### 🔗 **Nuestro GitHub**
 [https://github.com/OpceanAI](https://github.com/OpceanAI)
 
-### 📂 **Para más información del repositorio**
-[https://github.com/OpceanAI/Archan-Open-source-](https://github.com/OpceanAI/Archan-Open-source-)
 
 **Este es un bot open source basado en Archan desarrollado por OpceanAI**
 
