@@ -487,7 +487,7 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 [https://github.com/OpceanAI](https://github.com/OpceanAI)
 
 ### 🤗 **Nuestro Huggingfaces**
-[https://huggingface.co/OpceanAI] (https://huggingface.co/OpceanAI)
+[https://huggingface.co/OpceanAI](https://huggingface.co/OpceanAI)
 
 **Este es un bot open source basado en Archan desarrollado por OpceanAI**
 
