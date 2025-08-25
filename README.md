@@ -375,7 +375,7 @@ Nivel 50 → Rol "Archan Master"
 
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
-
+- **developer**: [Discord](https://discord.gg/bpvTTKH4)
 ---
 
 ## 🤝 Contribuir
