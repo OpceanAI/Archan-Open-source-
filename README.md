@@ -449,12 +449,12 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 
 <div align="center">
 
-![Lines of Code](https://img.shields.io/tokei/lines/github/tu-usuario/archan-bot?style=flat-square&label=Líneas%20de%20código&color=FF69B4)
-![Files](https://img.shields.io/github/directory-file-count/tu-usuario/archan-bot?style=flat-square&label=Archivos&color=9966FF)
-![Repo Size](https://img.shields.io/github/repo-size/tu-usuario/archan-bot?style=flat-square&label=Tamaño&color=FF1493)
+![Lines of Code](https://img.shields.io/tokei/lines/github/OpceanAI/Archan-Open-source-?style=flat-square&label=Líneas%20de%20código&color=FF69B4)
+![Files](https://img.shields.io/github/directory-file-count/OpceanAI/Archan-Open-source-?style=flat-square&label=Archivos&color=9966FF)
+![Repo Size](https://img.shields.io/github/repo-size/OpceanAI/Archan-Open-source-?style=flat-square&label=Tamaño&color=FF1493)
 
-![Commits](https://img.shields.io/github/commit-activity/m/tu-usuario/archan-bot?style=flat-square&label=Commits%20mensuales&color=4ECDC4)
-![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/archan-bot?style=flat-square&label=Último%20commit&color=45B7D1)
+![Commits](https://img.shields.io/github/commit-activity/m/OpceanAI/Archan-Open-source-?style=flat-square&label=Commits%20mensuales&color=4ECDC4)
+![Last Commit](https://img.shields.io/github/last-commit/OpceanAI/Archan-Open-source-?style=flat-square&label=Último%20commit&color=45B7D1)
 
 </div>
 
@@ -474,7 +474,7 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 **Si te gusta este proyecto, ¡dale una ⭐ nya~!**
 
 [![GitHub Stars](https://img.shields.io/github/star/OpceanAI/Archan-Open-source-?style=social)](../../stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/tu-usuario/archan-bot?style=social)](../../network/members)
+[![GitHub Forks](https://img.shields.io/github/forks/OpceanAI/Archan-Open-source-?style=social)](../../network/members)
 
 *¡Nyaa~ Made with 💖 by the kawaii programming community!*
 
