@@ -251,14 +251,6 @@ npm run sync
 npm start
 ```
 
-</details>
-
-### 🔗 **Invitar al Bot**
-
-```
-https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&scope=bot%20applications.commands
-```
-
 <details>
 <summary><b>🌐 Puedes usar Docker</b></summary>
 
@@ -266,6 +258,13 @@ https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&sc
 docker compose up -d
 ```
 
+</details>
+
+### 🔗 **Invitar al Bot**
+
+```
+https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&scope=bot%20applications.commands
+```
 ---
 
 ---
