@@ -492,6 +492,7 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 
 **Este es un bot open source basado en Archan desarrollado por OpceanAI**
 ```
+<details>
 
 <details>
 <summary><b>🌐 Puedes usar Docker</b></summary>
