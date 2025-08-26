@@ -259,6 +259,13 @@ npm start
 https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&scope=bot%20applications.commands
 ```
 
+</details>
+
+<details>
+<summary><b>🌐 Puedes usar Docker</b></summary>
+
+```bash
+docker compose up -d
 ---
 
 ## 🔧 Configuración
