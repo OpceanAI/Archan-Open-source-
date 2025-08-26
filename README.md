@@ -249,7 +249,7 @@ npm run sync
 
 # Iniciar el bot
 npm start
-```
+
 
 <details>
 
