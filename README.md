@@ -268,6 +268,8 @@ docker compose up -d
 ```
 ---
 
+---
+
 ## 🔧 Configuración
 
 ### 🌟 **Variables de Entorno**
