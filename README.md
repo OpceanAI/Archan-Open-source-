@@ -491,5 +491,12 @@ Usa la [plantilla de issues](.github/ISSUE_TEMPLATE/bug_report.md) para reportar
 [https://huggingface.co/OpceanAI](https://huggingface.co/OpceanAI)
 
 **Este es un bot open source basado en Archan desarrollado por OpceanAI**
+```
 
+<details>
+<summary><b>🌐 Puedes usar Docker</b></summary>
+
+```bash
+docker compose up -d
+```
 </div>
