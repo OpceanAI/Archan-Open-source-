@@ -250,7 +250,7 @@ npm run sync
 # Iniciar el bot
 npm start
 
-
+```
 <details>
 <summary><b>🌐 Puedes usar Docker</b></summary>
 
