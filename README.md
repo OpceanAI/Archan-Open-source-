@@ -268,6 +268,7 @@ docker compose up -d
 ```
 
 ```
+
 ---
 
 ## 🔧 Configuración
