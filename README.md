@@ -264,7 +264,6 @@ https://discord.com/api/oauth2/authorize?client_id=TU_CLIENT_ID&permissions=8&sc
 
 ```bash
 docker compose up -d
-
 ```
 ---
 
